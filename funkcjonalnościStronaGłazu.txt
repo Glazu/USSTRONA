@@ -1,3 +1,0 @@
--3 rodzaje usług: normal, medium, premium (standard, optimium, perfect)
--kupno odbywa się przez formularz, w którym klient zostawia info, że chce usługe i firma się kontaktuje później
--zdjecia z umytymi samochodami na rolce (w js zrobić)
