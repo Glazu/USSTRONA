@@ -8,3 +8,5 @@ Temat: Strona firmy mobilnej myjni samochodowej
 Grupa docelowa: posiadacze samochodów 
 
 Seksje: Strona główna, o mnie, galeria,  nasi partnerzy, kontakt, mapy 
+
+https://imgur.com/a/l7wyQwA
